@@ -9,5 +9,5 @@ We are interested in simple trainable algorithms that able to detect the wavefor
 
 Real-time time identification of waveforms is an important tool that can be used to allow coexistence of different emitters sharing the same geographical space. It is also relevant for cyber-security, helping to assure security in cyber-physical environments.
 
-NOTE: to develop the code here we used examples provided in the NIST directory about how read the data files and label files fields correctly in the Python Programming Language.
+NOTE: to develop the code here we used examples provided in the NIST directory about how read the data files and label files fields correctly in the Python Programming Language. The MATLAB code used by the scientists at NIST to generated radar wavforms simililar to the ones they made availble can be found at https://github.com/usnistgov/SimulatedRadarWaveformGenerator.git/trunk
 
