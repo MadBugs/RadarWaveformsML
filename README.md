@@ -1,7 +1,7 @@
 # RadarWaveformsML
 Manipulation of Radar and Communication Waveforms using new ML algorithms but not forgetting the Old Tricks
 
-This repository was originally created for project for the Class "Introduction to Machine Learning at NYU Tandon" ministered by Professor Sundeep Ragan (more details at https://github.com/sdrangan/introml/blob/master/unit03_mult_lin_reg/demo2_python_broadcasting.ipynb)
+This repository was originally created for project for the Class "Introduction to Machine Learning at NYU Tandon" ministered by Professor Sundeep Ragan (more details at https://github.com/sdrangan/introml)
 
 The main goal is to use synthetic radar waveforms provided by the scientists at the US National Institute of Standards and Technology (NIST) (more details at https://data.nist.gov/od/id/mds2-2116) to investigate the detection of features in the waveforms using *Machine Learning* techniques.
 
